@@ -12,6 +12,7 @@ This project is about the `Sentiment Analysis` of the text messages. Sentiment a
 
 ## About the dataset
   This dataset contains two features `Emotion` and the `Text`
+
 Emotion has 8 particulars namely,
 1. Joy
 2. Anger
