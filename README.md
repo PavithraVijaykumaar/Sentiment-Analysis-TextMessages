@@ -107,4 +107,4 @@ The environment used for this analysis is Jupyter Notebook.
 
 The code for this analysis can be viewed in [Jupyter Notebook](Text-message-SentimentAnalysis.ipynb)
 
-To view the code as raw code, [Python](Text-message-SentimentAnalysis.py)
+To view the code as raw code click [Python](Text-message-SentimentAnalysis.py)
